@@ -1,7 +1,7 @@
 
 import axios from 'axios'
 
-const URL = 'http://42.51.207.166:9035'
+const URL = '/api'
 
 
 //获取banner图

@@ -2,6 +2,9 @@
 
 数据来自网易云音乐api(https://binaryify.github.io/NeteaseCloudMusicApi/#/)
 
+# imgs
+![image](https://github.com/yylsj0625/react-music/edit/master/src/img/m1.jpg)
+
 ## Folder Structure
 
 After creation, your project should look like this:

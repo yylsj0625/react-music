@@ -1,6 +1,6 @@
 ## react16.x + react-router4 +react-redux+antd+axios
 
-数据来之网易云音乐api(https://binaryify.github.io/NeteaseCloudMusicApi/#/)
+数据来自网易云音乐api(https://binaryify.github.io/NeteaseCloudMusicApi/#/)
 
 ## Folder Structure
 

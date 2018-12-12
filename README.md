@@ -3,7 +3,7 @@
 数据来自网易云音乐api(https://binaryify.github.io/NeteaseCloudMusicApi/#/)
 
 # imgs
-![image](https://github.com/yylsj0625/react-music/edit/master/react-music/src/img/m1.jpg)
+![image](https://github.com/yylsj0625/react-music/src/img/m1.jpg)
 
 ## Folder Structure
 
